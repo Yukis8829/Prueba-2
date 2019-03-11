@@ -1,0 +1,40 @@
+
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #545454;
+}
+
+
+header{
+	background-color:transparent;
+	text-align: center;
+	color: #fff;
+	position: absolute;
+	width: 100%;
+	top: 0;
+	z-index: 9999;
+}
+
+#sec-home{
+background-image: url( "../img/home-header-bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 100px 0;
+	color: #fff;
+	text-align:left;
+}
+
+#sec-about{
+	padding: 100px 0;
+}
+
+#footer{
+	background-color:currentColor;
+	
+}
+
+#p{
+	
+}
